@@ -1,0 +1,61 @@
+{
+    [
+        {
+           "Date Time"    : "14/05/2025 5:00PM",
+           "Customer"     : "Amma",
+           "item "        : "Pissa",
+           "Quantity"     :  2 ,
+           "Amount"       : 500,
+           "Payment mode" : "Online"
+        },
+        {
+            "Date Time"    : "14/05/2025 5:00PM",
+           "Customer"     : "Amma",
+           "item "        : "Sandwich",
+           "Quantity"     :  1 ,
+           "Amount"       : 150,
+           "Payment mode" : "Online"
+
+        },
+        {
+            "Date Time"    : "14/05/2025 5:30PM",
+           "Customer"     : "Abby",
+           "item "        : "Burger",
+           "Quantity"     :  3 ,
+           "Amount"       : 600,
+           "Payment mode" : "Online"
+        },
+        {
+            "Date Time"    : "15/05/2025 7:00PM",
+           "Customer"     : "Amma",
+           "item "        : "Pissa",
+           "Quantity"     :  1 ,
+           "Amount"       : 250,
+           "Payment mode" : "Online"
+        },
+        {
+           "Date Time"    : "14/05/2025 7:00PM",
+           "Customer"     : "Amma",
+           "item "        : "Sandwich",
+           "Quantity"     :  1 ,
+           "Amount"       : 150,
+           "Payment mode" : "Online"
+        },
+        {
+            "Date Time"    : "15/05/2025 6:00PM",
+           "Customer"     : "Balu",
+           "item "        : "Pissa",
+           "Quantity"     :  2 ,
+           "Amount"       : 500,
+           "Payment mode" : "Online"
+        },
+        {
+           "Date Time"    : "15/05/2025 5:00PM",
+           "Customer"     : "Amma",
+           "item "        : "Sandwich",
+           "Quantity"     :  3 ,
+           "Amount"       : 450,
+           "Payment mode" : "Online"
+        }
+    ]
+}

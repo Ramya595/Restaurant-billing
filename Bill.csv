@@ -1,2 +1,5 @@
-Order no,Order date,Amount,Payment mode
-1,15/05/2025,550,Online
+Customer,Date Time,Item,Quantity,Amount,Payment mode
+Amma,15/05/2025 2:30PM,Pizza,1,250,Online
+Amma,15/05/2025 2:30PM,Sandwich,2,300,Online
+Bunny,14/05/2025 5:00PM,Burger,3,600,Online
+Balu,16/05/2025 3:30PM,Pizza,2,500,Online
