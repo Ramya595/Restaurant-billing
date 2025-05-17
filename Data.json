@@ -24,18 +24,18 @@
          "Table no": 1,
          "Date Time": "14/05/2025 5:00PM",
          "Customer": "Amma",
-         "item ": {
-            [
+         "item ": [
+            {
                "Name": "Pissa",
                "Quantity": 2,
                "Amount": 500
-            ],
-            [
+            },
+            {
                "Name": "Sandwich",
                "Quantity": 1,
                "Amount": 150
-            ]
-         },
+            }
+         ],
            "Total": 650,
            "Payment mode": "Online",
            "Status":"completed"
@@ -44,18 +44,18 @@
          "Table no":4,
          "Date Time": "15/05/2025 7:00PM",
          "Customer": "Abby",
-         "item ": {
-            [
+         "item ": [
+            {
                "Name": "Pissa",
                "Quantity": 1,
                "Amount": 250
-            ],
-            [
+            },
+            {
                "Name": "Burger",
                "Quantity": 3,
                "Amount": 600
-            ]
-         },
+            }
+         ],
            "Total": 850,
            "Payment mode": "Online",
            "Status":"completed"
@@ -65,20 +65,20 @@
          "Table no":6,
          "Date Time": "14/05/2025 5:00PM",
          "Customer": "Balu",
-         "item ": {
-            [
+         "item ": [
+            {
                "Name": "Burger",
                "Quantity": 2,
                "Amount": 400
-            ],
-            [
+            },
+            {
                "Name": "Sandwich",
                "Quantity": 1,
                "Amount": 150
-            ]
-         }
+            }
+         ],
            "Total": 550,
-           "Payment mode": "Online"
+           "Payment mode": "Online",
            "Status":"completed"
       }
       
